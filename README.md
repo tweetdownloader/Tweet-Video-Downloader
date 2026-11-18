@@ -8,7 +8,6 @@ The tool works directly in your web browser, making it easy to download and save
 
 ## Features
 
-* **Free Online Tool:** Download Tweet videos and GIFs for free.
 * **High-Quality Downloads:** Save videos in the highest available quality.
 * **MP4 Format:** Download videos and GIFs in MP4 format.
 * **Easy to Use:** A simple and user-friendly interface.
