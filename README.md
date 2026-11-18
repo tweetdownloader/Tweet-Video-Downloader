@@ -4,8 +4,6 @@
 
 The tool works directly in your web browser, making it easy to download and save media on your smartphone, tablet, or desktop computer.
 
----
-
 ## Features
 
 * **High-Quality Downloads:** Save videos in the highest available quality.
@@ -15,8 +13,6 @@ The tool works directly in your web browser, making it easy to download and save
 * **Mobile-Friendly:** Compatible with Android, iOS, Windows, and macOS.
 * **Fast Processing:** Download your favorite media in just a few simple steps.
 
----
-
 ## How to Download Tweet Videos
 
 Downloading videos and GIFs is quick and straightforward:
@@ -25,8 +21,6 @@ Downloading videos and GIFs is quick and straightforward:
 2. **Visit the Website:** Open Tweet Video Downloader in your browser.
 3. **Paste the Link:** Enter the copied URL into the input field.
 4. **Download:** Click the download button and save the video or GIF to your device.
-
----
 
 ## Supported Devices
 
@@ -39,8 +33,6 @@ Tweet Video Downloader works on various devices and operating systems, including
 * Other devices with a modern web browser
 
 > *No additional software or browser extensions are needed.*
-
----
 
 ## Frequently Asked Questions
 
@@ -61,8 +53,6 @@ Tweet Video Downloader works on various devices and operating systems, including
 
 ### **Q: Do I need to create an account?**
 > No registration or account is required.
-
----
 
 ## Responsible Use
 
